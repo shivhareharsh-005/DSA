@@ -6,10 +6,12 @@ A collection of DSA soluttions from leetcode and gfg
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
