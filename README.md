@@ -32,6 +32,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -48,8 +49,10 @@ A collection of DSA soluttions from leetcode and gfg
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
