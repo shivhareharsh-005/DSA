@@ -9,6 +9,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0040-combination-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivhareharsh-005/DSA/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -47,6 +49,7 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -62,4 +65,12 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shivhareharsh-005/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
