@@ -10,6 +10,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0046-permutations](https://github.com/shivhareharsh-005/DSA/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shivhareharsh-005/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -55,6 +57,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shivhareharsh-005/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -69,8 +72,10 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
