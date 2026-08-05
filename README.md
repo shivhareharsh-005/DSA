@@ -42,6 +42,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shivhareharsh-005/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0437-path-sum-iii](https://github.com/shivhareharsh-005/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -56,6 +57,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0113-path-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0437-path-sum-iii](https://github.com/shivhareharsh-005/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -71,6 +73,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shivhareharsh-005/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0437-path-sum-iii](https://github.com/shivhareharsh-005/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
