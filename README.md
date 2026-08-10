@@ -39,6 +39,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0110-balanced-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shivhareharsh-005/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -57,6 +58,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0110-balanced-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/shivhareharsh-005/DSA/tree/master/0437-path-sum-iii) |
@@ -74,6 +76,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0110-balanced-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shivhareharsh-005/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -118,4 +121,12 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
