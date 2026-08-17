@@ -56,6 +56,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -77,6 +78,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -105,6 +107,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -121,6 +124,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0662-maximum-width-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search
 |  |
@@ -133,6 +137,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,4 +164,8 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivhareharsh-005/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
