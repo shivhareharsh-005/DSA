@@ -47,6 +47,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivhareharsh-005/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivhareharsh-005/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivhareharsh-005/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -71,6 +72,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivhareharsh-005/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivhareharsh-005/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -98,6 +100,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivhareharsh-005/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivhareharsh-005/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivhareharsh-005/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -119,6 +122,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0112-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivhareharsh-005/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/shivhareharsh-005/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivhareharsh-005/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0662-maximum-width-of-binary-tree) |
