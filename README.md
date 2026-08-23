@@ -51,6 +51,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0226-invert-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivhareharsh-005/DSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/shivhareharsh-005/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivhareharsh-005/DSA/tree/master/0617-merge-two-binary-trees) |
@@ -112,6 +113,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0226-invert-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivhareharsh-005/DSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/shivhareharsh-005/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivhareharsh-005/DSA/tree/master/0617-merge-two-binary-trees) |
@@ -199,6 +201,7 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/shivhareharsh-005/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivhareharsh-005/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
