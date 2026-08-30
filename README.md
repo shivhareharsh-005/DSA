@@ -6,6 +6,7 @@ A collection of DSA soluttions from leetcode and gfg
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivhareharsh-005/DSA/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0090-subsets-ii) |
@@ -159,6 +160,7 @@ A collection of DSA soluttions from leetcode and gfg
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivhareharsh-005/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
