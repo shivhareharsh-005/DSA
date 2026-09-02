@@ -15,6 +15,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivhareharsh-005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0905-sort-array-by-parity](https://github.com/shivhareharsh-005/DSA/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/shivhareharsh-005/DSA/tree/master/1046-last-stone-weight) |
 ## Backtracking
 |  |
@@ -204,6 +205,7 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivhareharsh-005/DSA/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/shivhareharsh-005/DSA/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -230,6 +232,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0088-merge-sorted-array](https://github.com/shivhareharsh-005/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivhareharsh-005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivhareharsh-005/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0905-sort-array-by-parity](https://github.com/shivhareharsh-005/DSA/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
