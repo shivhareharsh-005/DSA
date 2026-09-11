@@ -9,6 +9,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0001-two-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivhareharsh-005/DSA/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/shivhareharsh-005/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivhareharsh-005/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -204,6 +205,7 @@ A collection of DSA soluttions from leetcode and gfg
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivhareharsh-005/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivhareharsh-005/DSA/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/shivhareharsh-005/DSA/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -229,6 +231,7 @@ A collection of DSA soluttions from leetcode and gfg
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivhareharsh-005/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivhareharsh-005/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivhareharsh-005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivhareharsh-005/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -237,4 +240,12 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/shivhareharsh-005/DSA/tree/master/1046-last-stone-weight) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivhareharsh-005/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivhareharsh-005/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
