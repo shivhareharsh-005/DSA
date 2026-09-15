@@ -8,6 +8,7 @@ A collection of DSA soluttions from leetcode and gfg
 | ------- |
 | [0001-two-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/shivhareharsh-005/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/shivhareharsh-005/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shivhareharsh-005/DSA/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/shivhareharsh-005/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivhareharsh-005/DSA/tree/master/0088-merge-sorted-array) |
@@ -34,6 +35,7 @@ A collection of DSA soluttions from leetcode and gfg
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivhareharsh-005/DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
@@ -194,6 +196,7 @@ A collection of DSA soluttions from leetcode and gfg
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivhareharsh-005/DSA/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
@@ -232,6 +235,7 @@ A collection of DSA soluttions from leetcode and gfg
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivhareharsh-005/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shivhareharsh-005/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivhareharsh-005/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivhareharsh-005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -250,4 +254,8 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivhareharsh-005/DSA/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shivhareharsh-005/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
